@@ -7,7 +7,7 @@ Basic real time dashboard for tracking development of the new coronavirus (COVID
 * deaths per country
 * confirmed per country
 
-Uses [ExpDev07: coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) for data.  
+Uses [ExpDev07: coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-api) for data. See the [live version](https://corona-dashboard.mrfrontend.org/) 
 
 This is a fast (< 200ms) and basic API, written in python using Flask.  
 
